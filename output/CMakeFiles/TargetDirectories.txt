@@ -1,0 +1,14 @@
+/home/nick/progs/C/ds/some/txt_parser/output/CMakeFiles/install/strip.dir
+/home/nick/progs/C/ds/some/txt_parser/output/CMakeFiles/install/local.dir
+/home/nick/progs/C/ds/some/txt_parser/output/CMakeFiles/install.dir
+/home/nick/progs/C/ds/some/txt_parser/output/CMakeFiles/list_install_components.dir
+/home/nick/progs/C/ds/some/txt_parser/output/CMakeFiles/rebuild_cache.dir
+/home/nick/progs/C/ds/some/txt_parser/output/CMakeFiles/edit_cache.dir
+/home/nick/progs/C/ds/some/txt_parser/output/CMakeFiles/proj.dir
+/home/nick/progs/C/ds/some/txt_parser/output/OpenXLSX/CMakeFiles/install/strip.dir
+/home/nick/progs/C/ds/some/txt_parser/output/OpenXLSX/CMakeFiles/install.dir
+/home/nick/progs/C/ds/some/txt_parser/output/OpenXLSX/CMakeFiles/list_install_components.dir
+/home/nick/progs/C/ds/some/txt_parser/output/OpenXLSX/CMakeFiles/rebuild_cache.dir
+/home/nick/progs/C/ds/some/txt_parser/output/OpenXLSX/CMakeFiles/edit_cache.dir
+/home/nick/progs/C/ds/some/txt_parser/output/OpenXLSX/CMakeFiles/install/local.dir
+/home/nick/progs/C/ds/some/txt_parser/output/OpenXLSX/CMakeFiles/OpenXLSX.dir
